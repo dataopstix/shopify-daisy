@@ -1,5 +1,6 @@
 # Shopify Daisy
-Shopify Daisy is a service for continuously replicating data from Shopify to the database.
+
+Shopify Daisy(Database Integration System) is a system for continuously replicating data from Shopify to the databases.
 
 # Tech Stack
 
